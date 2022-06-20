@@ -1,15 +1,16 @@
 ### Seja Bem vindo! Meu nome é Gabrielle Santos ❤👋
   ##
 
+
 👩‍💻 Estudante de Análise e Desenvolvedora de Sistemas. <br>
 📚 Faculdade de Tecnologia SPTECH. <br>
-😻 Apaixonada por Programação. <br>
- <img align="right" height="150" style="border-radius:50px;" src="./fotoGIT.png">
-  
+😻 Apaixonada por Programação. 
+ 
 <div align="center">
   <a href="https://github.com/gabrielleSSantos">
   <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api?username=gabrielleSSantos&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
   <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielleSSantos&layout=compact&langs_count=7&theme=radical"/>
+ <img align="right" height="150" style="border-radius:50px;" src="./fotoGIT.png">
 
 </div>
   
