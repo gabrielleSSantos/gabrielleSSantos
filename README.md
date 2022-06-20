@@ -5,8 +5,9 @@
 📚 Faculdade de Tecnologia SPTECH. <br>
 😻 Apaixonada por Programação. <br>
 
+  
 <div align="center">
-   <img align="right"height="150" style="border-radius:50px;" src="./fotoGIT.png">
+  <img align="left " height="150" style="border-radius:50px;" src="./fotoGIT.png">
   <a href="https://github.com/gabrielleSSantos">
   <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api?username=gabrielleSSantos&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
   <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielleSSantos&layout=compact&langs_count=7&theme=radical"/>
