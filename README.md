@@ -3,7 +3,7 @@
 
 
 👩‍💻 Estudante de Análise e Desenvolvedora de Sistemas. <br>
-💻 Estagiaria da Deloitte.
+💻 Estagiaria da Deloitte. <br>
 📚 Faculdade de Tecnologia SPTECH. <br>
 😻 Apaixonada por Banco de Dados. 
  
