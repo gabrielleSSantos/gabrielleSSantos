@@ -5,7 +5,7 @@
 👩‍💻 Estudante de Análise e Desenvolvedora de Sistemas. <br>
 💻 Estagiaria da Deloitte. <br>
 📚 Faculdade de Tecnologia SPTECH. <br>
-😻 Apaixonada por Banco de Dados. 
+😻 Apaixonada por Tecnologia. 
  
 <div align="center">
   <a href="https://github.com/gabrielleSSantos">
